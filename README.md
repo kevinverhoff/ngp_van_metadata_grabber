@@ -8,6 +8,8 @@ A lightweight, zero-fuss tool designed for **campaign and party data volunteers*
 
 Stop clicking through the VAN web interface to hunt down individual IDs. Run this script once to export clean CSVs and JSONs so you can jump straight into mapping your canvass, phone bank, or vendor call sheets for bulk upload.
 
+**WARNING** NEVER EVER EVER COMMIT YOUR API KEY. Double Check the .gitignore file before doing anything. I swear to god if anyone clones this and then posts their API key to git...
+
 ---
 
 ## The Problem It Solves
