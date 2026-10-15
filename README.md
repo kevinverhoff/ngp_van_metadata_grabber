@@ -10,6 +10,8 @@ Stop clicking through the VAN web interface to hunt down individual IDs. Run thi
 
 **WARNING** NEVER EVER EVER COMMIT YOUR API KEY. Double Check the .gitignore file before doing anything. I swear to god if anyone clones this and then posts their API key to git...
 
+You can reach out to me if you need help.
+
 ---
 
 ## The Problem It Solves
