@@ -1,0 +1,47 @@
+# Environment & Secret files
+.env
+.env.*
+*.env
+.Renviron
+!.env.example
+!.env.template
+
+# Virtual Environments
+.venv/
+venv/
+ENV/
+env/
+
+# Python cache & build
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Default metadata output directory (prevents committing party voter metadata to public GitHub)
+output/
+metadata/
+
+# OS and Editor artifacts
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+*.swp
+*.swo
